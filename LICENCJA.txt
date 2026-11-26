@@ -1,0 +1,55 @@
+CRITTERS — UMOWA LICENCYJNA UŻYTKOWNIKA KOŃCOWEGO (FREEWARE)
+==========================================================
+
+Twórca: Damian Zachmacz (dalej: „Twórca”).
+Program: Critters — instalator, program na pulpit (critters.exe), klient (critters_klient.exe)
+oraz towarzyszące im pliki (dalej: „Program”).
+
+Program Critters jest udostępniany bezpłatnie (freeware) wyłącznie do prywatnego,
+niekomercyjnego użytku osobistego.
+
+1. Licencja
+   Twórca udziela bezpłatnej, niewyłącznej i nieprzenoszalnej licencji na zainstalowanie
+   i używanie Programu na własnych komputerach. Program nie jest oprogramowaniem otwartym
+   (open source); kod źródłowy nie jest udostępniany. Wszelkie prawa niewymienione w tej
+   umowie są zastrzeżone przez Twórcę.
+
+2. Prawa i ograniczenia
+   a) Zabrania się sprzedaży, wynajmu oraz redystrybucji Programu poza oficjalnym
+      repozytorium projektu, także w zmienionej postaci lub w pakietach z innymi programami.
+   b) Zabrania się modyfikacji, inżynierii wstecznej, dekompilacji oraz obchodzenia
+      mechanizmów integralności danych i połączeń sieciowych, poza zakresem, na który
+      bezwzględnie pozwala prawo.
+   c) Zabrania się usuwania tej umowy i informacji o Twórcy.
+
+3. Pakiety danych
+   Program zawiera wyłącznie silnik techniczny. Zewnętrzne pakiety danych pobierane przez
+   użytkownika pozostają jego własnością i na jego wyłączną odpowiedzialność.
+
+4. Usługi sieciowe
+   Konto, tokeny i walki działają przez usługi sieciowe Twórcy. Twórca może zmieniać zasady
+   działania usług, zawieszać konta naruszające zasady oraz zmienić lub zakończyć usługi
+   sieciowe w dowolnym momencie. Tokeny i stworki nie mają wartości pieniężnej.
+
+5. Wyłączenie odpowiedzialności
+   Program dostarczany jest w stanie „takim, jaki jest” (AS IS), bez jakichkolwiek gwarancji
+   działania. Twórca nie odpowiada za szkody wynikłe z używania Programu, w granicach
+   dopuszczalnych przez prawo. Postanowienie to nie ogranicza praw konsumenta, których nie
+   można wyłączyć umową.
+
+6. Zakończenie
+   Licencja wygasa automatycznie w razie naruszenia jej warunków. Należy wtedy usunąć Program.
+
+7. Prawo właściwe
+   Umowa podlega prawu polskiemu.
+
+Instalując lub używając Programu, akceptujesz warunki tej umowy.
+
+---------------------------------------------------------------------------
+SHORT ENGLISH SUMMARY (the Polish text above prevails)
+Critters is free (freeware) for private, non-commercial use only. It is not open source;
+all rights reserved. No selling, renting or redistribution outside the official repository;
+no modification, reverse engineering, decompiling or circumventing data-integrity and network
+mechanisms. The program contains only a technical engine; external data packages downloaded
+by the user remain the user's property and sole responsibility. Provided "AS IS", without
+warranty; online services may change or end at any time.
